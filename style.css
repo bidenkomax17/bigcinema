@@ -1,0 +1,17 @@
+div
+{
+    border: 2px solid red;
+    padding: 50px;
+    text-align: center;
+}
+#control
+{
+    margin-top: 10px;
+    background-color: azure;
+    padding: 20px;
+    border: 2px solid black;
+}
+#knopka
+{
+    text-align: center;
+}
